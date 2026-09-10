@@ -17,12 +17,12 @@
 Data citations:
 - 🤧 [Lassa fever case data (Nigerian Centre for Disease Control Situation Reports)](https://ncdc.gov.ng/diseases/sitreps/?cat=5&name=An%20update%20of%20Lassa%20fever%20outbreak%20in%20Nigeria)
 - 🐭 [Capture-mark-recapture (CMR) paper](https://www.nature.com/articles/s41597-023-02700-3) and [data](https://zenodo.org/records/10049811)
-- :drop_of_blood: [Morogoro arenavirus (MORV) serological data paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13107)
+- :drop_of_blood: [Morogoro arenavirus (MORV) serological data paper](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2656.13107) and [data](https://datadryad.org/dataset/doi:10.5061/dryad.0g22962)
 
 Files not present in the data folder due to their large size or not being open access (flagged with ⛔ in _Workflow_, below):
 - 🏞 NOAA daily climate rasters for [temperature](https://downloads.psl.noaa.gov/Datasets/cpc_global_temp/) & [precipitation](https://downloads.psl.noaa.gov/Datasets/cpc_global_precip/)
 - :file_cabinet: Some large files that are generated from running the scripts
-- :drop_of_blood: MORV serological data are not open access; potential collaborators are encouraged to contact J. Mariën (jmarien@itg.be)
+- :drop_of_blood: To request additional paired individual-level data to complement the MORV seroprevalence dataset (ID, sex, reproductive condition, body weight) please contact J. Mariën (jmarien@itg.be). This repository does not contain that information
 
 ## Workflow
 
